@@ -3,7 +3,7 @@
 A menu-based Python task manager that saves tasks to `tasks.json` and reloads them the next time it runs.
 
 ## Features
-
+Author: HARRAM
 - **Add** a task (stored as Pending)
 - **View** a numbered list showing Pending or Done
 - **Complete** a task by number
